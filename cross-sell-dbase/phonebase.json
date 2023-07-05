@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Смартфон Apple iPhone 12 Pro 128GB Graphite",
+    "img": "img/iPhone-graphite.png",
+    "price": "91990",
+    "memoryROM": "128",
+    "screen": "6.1'/2532x1170",
+    "tech-screen": "OLED",
+    "camera": "12/12/12/LiDAR"
+  },
+  {
+    "name": "Смартфон Apple iPhone 12 Pro 256GB Silver",
+    "img": "img/iPhone-silver.png",
+    "price": "119990",
+    "memoryROM": "256",
+    "screen": "6.1'/2532x1170",
+    "tech-screen": "OLED",
+    "camera": "12/12/12/LiDAR"
+  },
+  {
+    "name": "Смартфон Apple iPhone 12 Pro 128GB Pacific Blue",
+    "img": "img/iPhone-blue.png",
+    "price": "92990",
+    "memoryROM": "128",
+    "screen": "6.1'/2532x1170",
+    "tech-screen": "OLED",
+    "camera": "12/12/12/LiDAR"
+  }
+]
